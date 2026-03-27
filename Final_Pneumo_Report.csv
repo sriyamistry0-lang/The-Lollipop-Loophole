@@ -1,0 +1,15 @@
+locus_tag,ftype,length_bp,gene,EC_number,COG,product
+KFONEOIH_00320,CDS,2253,pbpX,,COG0768,Penicillin-binding protein 2x
+KFONEOIH_00331,CDS,693,ywqC,,COG3944,putative capsular polysaccharide biosynthesis protein YwqC
+KFONEOIH_00350,CDS,2160,ponA,,COG0744,Penicillin-binding protein 1A
+KFONEOIH_00941,CDS,315,macP,,,Penicillin-binding protein 2a activator MacP
+KFONEOIH_01108,CDS,1362,norM,,COG0534,Multidrug resistance protein NorM
+KFONEOIH_01447,CDS,1122,lmrA,7.6.2.2,COG1132,Multidrug resistance ABC transporter ATP-binding and permease protein
+KFONEOIH_01448,CDS,546,bmrA,7.6.2.-,COG1132,Multidrug resistance ABC transporter ATP-binding/permease protein BmrA
+KFONEOIH_01468,CDS,729,yaaA,,COG3022,DNA-binding and peroxide stress resistance protein YaaA
+KFONEOIH_01587,CDS,2043,penA,,COG0768,Penicillin-binding protein 2B
+KFONEOIH_01748,CDS,1752,yheH,7.6.2.-,COG1132,putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+KFONEOIH_01749,CDS,1746,yheI,7.6.2.-,COG1132,putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+KFONEOIH_01851,CDS,1416,ply,,,Pneumolysin
+KFONEOIH_01864,CDS,957,lytA,3.5.1.28,COG5263,Autolysin
+KFONEOIH_01949,CDS,2196,pbp2a,,COG0744,Penicillin-binding protein 2a
